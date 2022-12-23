@@ -1,0 +1,227 @@
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  .hero-header .play-video {
+    padding: 20px 64px 33px 61px;
+  }
+
+  .popular .play-video {
+    padding: 20px 64px 33px 61px;
+  }
+
+  .profitku .laptop {
+    padding: 20px 64px 33px 61px;
+  }
+  
+  .overage .laptop {
+    padding: 20px 64px 33px 61px;
+  }
+
+  .analysis .box-analysis .laptop {
+    padding: 20px 64px 33px 61px;
+  }
+
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .navbar-light .navbar-brand img {
+    max-height: 40px;
+  }
+  .hero-header .play-video {
+    padding: 20px 55px 33px 52px;
+  }
+
+  .popular .play-video {
+    padding: 20px 55px 33px 52px;
+  }
+
+  .profitku .laptop {
+    padding: 20px 55px 33px 52px;
+  }
+  
+  .overage .laptop {
+    padding: 20px 55px 33px 52px;
+  }
+
+  .analysis .box-analysis .laptop {
+    padding: 20px 55px 33px 52px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .hero-header .play-video {
+    padding: 25px 81px 43px 78px;
+  }
+
+  .popular .play-video {
+    padding: 25px 81px 43px 78px;
+  }
+
+  .profitku .laptop {
+    padding: 25px 81px 43px 78px;
+  }
+  
+  .overage .laptop {
+    padding: 25px 81px 43px 78px;
+  }
+
+  .analysis .box-analysis .laptop {
+    padding: 25px 81px 43px 78px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+  .hero-header .play-video {
+    padding: 20px 61px 32px 58px;
+  }
+
+  .popular .play-video {
+    padding: 20px 61px 32px 58px;
+  }
+
+  .profitku .laptop {
+    padding: 20px 61px 32px 58px;
+  }
+  
+  .overage .laptop {
+    padding: 20px 61px 32px 58px;
+  }
+
+  .analysis .box-analysis .laptop {
+    padding: 20px 61px 32px 58px;
+  }
+}
+
+@media only screen and (min-width: 440px) and (max-width: 576px) {
+  .hero-header .play-video {
+    padding: 20px 61px 32px 58px;
+  }
+
+  .popular .play-video {
+    padding: 20px 61px 32px 58px;
+  }
+
+  .profitku .laptop {
+    padding: 20px 61px 32px 58px;
+  }
+  
+  .overage .laptop {
+    padding: 20px 61px 32px 58px;
+  }
+
+  .analysis .box-analysis .laptop {
+    padding: 20px 61px 32px 58px;
+  }
+}
+
+@media only screen and (min-width: 384px) and (max-width: 440px) {
+  .hero-header .play-video {
+    padding: 15px 42px 23px 43px;
+  }
+
+  .popular .play-video {
+    padding: 15px 42px 23px 43px;
+  }
+
+  .profitku .laptop {
+    padding: 15px 42px 23px 43px;
+  }
+  
+  .overage .laptop {
+    padding: 15px 42px 23px 43px;
+  }
+
+  .analysis .box-analysis .laptop {
+    padding: 15px 42px 23px 43px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .hero-header .col-max h1 {
+    font-size: 2rem;
+  }
+}
+
+
+
+@media only screen and (max-width: 991px) {
+  .team .row-p {
+    margin-top: 2rem;
+  }
+  
+  .team .box-team .img {
+    height: calc(100vw - 90vw);
+  }
+
+  .team .box-team .img img {
+    width: 120px;
+    height: 120px;
+    top: 10%;
+  }
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+  .trouble .swiper-wrapper {
+    height: calc(100vw - 60vw);
+  }
+   
+  .trouble .box-trouble p {
+    font-size: 1rem;
+  }
+
+  .team .box-team .img {
+      height: calc(100vw - 78vw);
+   }
+
+  .team .box-team .img img {
+    width: 120px;
+    height: 120px;
+    top: 10%;
+  }
+
+} 
+
+
+@media only screen and (max-width: 600px)  {
+  .trouble .swiper-wrapper {
+    height: calc(100vw - 37vw);
+  }
+
+  .trouble .box-trouble p {
+    font-size: 0.8rem;
+  }
+
+  .overage .box p {
+    font-size: 0.6rem;
+  }
+
+  .popular .box-popular p {
+    font-size: 0.7rem;
+  }
+  
+  .analysis .box-analysis .box p {
+    font-size: 0.7rem;
+  }
+
+  .testimoni .box-testi .img img {
+    width: 70px;
+    height: 70px;
+  }
+
+  .testimoni .box-testi .desk p {
+    font-size: 0.7rem;
+    line-height: 12px;
+  }
+
+  .testimoni .swiper-wrapper {
+    height: calc(100vw - 11vw);
+  }
+
+  .overage .laptop .img img {
+    height:calc(260px - 100px);
+}
+}
+
